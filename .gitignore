@@ -1,3 +1,23 @@
+# CMake 构建目录
 build/
+bin/
+lib/
 
+# 编译生成的中间文件和可执行文件
+*.o
+*.out
+*.exe
+*.dylib
+*.so
+*.a
 
+# 操作系统自动生成的文件
+.DS_Store
+Thumbs.db
+
+# IDE 和编辑器缓存 (如 VS Code, CLion, Vim, Zed等)
+.vscode/
+.idea/
+*.swp
+*.swo
+.clangd/
