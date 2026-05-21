@@ -1,4 +1,3 @@
-下面是 **Day 7｜最小线程池 ThreadPool** 的完整文档版，可以直接复制到 
 # Day 7｜最小线程池 ThreadPool：TaskQueue + worker + submit + shutdown
 
 # 1. 今日学习目标
